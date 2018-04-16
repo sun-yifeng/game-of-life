@@ -1,0 +1,5 @@
+#安装
+brew search jenkins
+brew install jenkins
+#启动(适用Mac)
+brew services restart jenkins
