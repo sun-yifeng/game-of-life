@@ -1,5 +1,6 @@
 #安装
 brew search jenkins
 brew install jenkins
-#启动(适用Mac)
-brew services restart jenkins
+#启动
+brew services restart jenkins 适用Mac
+java -jar jenkins.war 直接运行，不要web容器
